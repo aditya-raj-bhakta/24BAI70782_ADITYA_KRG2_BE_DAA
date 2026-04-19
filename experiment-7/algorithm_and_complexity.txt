@@ -1,5 +1,4 @@
 Algorithm: Cheapest Flights Within K Stops
-
 Input:
   n       → number of cities (nodes)
   flights → list of edges (u → v, cost)
