@@ -100,4 +100,4 @@ int main() {
     Huffman(text);
 
     return 0;
-}ha
+}
